@@ -1,0 +1,231 @@
+🎯 COURSE 1: MACHINE LEARNING (22CD62)
+📌 Basic Information
+Semester: VI
+Credits: 04
+Total Pedagogy Hours: 50
+Assessment: CIE (50) + SEE (50) = 100
+📌 Pre-requisites
+Data Structures & Algorithms
+Probability Theory
+Statistical Analysis
+🎯 Course Objectives
+Define machine learning concepts and problems
+Understand various learning algorithms
+Differentiate supervised, unsupervised, reinforcement learning
+Apply evaluation metrics and model selection
+📚 Syllabus Modules
+🔹 Module 1: Fundamentals & Concept Learning (10 Hours)
+Well-posed learning problems
+Designing a learning system
+Issues in ML
+Concept learning as search
+Find-S Algorithm
+Candidate Elimination Algorithm
+Inductive bias
+🔹 Module 2: Classification (10 Hours)
+Decision Tree Learning
+Representation & problem suitability
+ID3 Algorithm
+Hypothesis search space
+Inductive bias
+Handling decision tree issues
+🔹 Module 3: Prediction & Neural Networks (08 Hours)
+Neural Network basics
+Representation
+Perceptron
+Backpropagation algorithm
+Implementation insights
+🔹 Module 4: Bayesian & Instance-Based Learning (12 Hours)
+Bayes Theorem
+Maximum Likelihood & Least Squares
+MDL principle
+Bayes optimal classifier
+Gibbs algorithm
+Naïve Bayes (text classification, m-estimate)
+
+Instance-Based Learning:
+
+k-NN
+Locally Weighted Regression
+Radial Basis Functions
+🔹 Module 5: Clustering (10 Hours)
+Types of clustering
+K-Means
+Hierarchical clustering
+Density-based clustering
+Graph-based clustering
+Cluster evaluation
+📖 Suggested Resources
+📘 Textbooks
+Machine Learning — Tom M. Mitchell
+Data Mining: Concepts & Techniques — Han, Kamber, Pei
+📗 References
+Elements of Statistical Learning — Hastie, Tibshirani
+Introduction to Machine Learning — Ethem Alpaydin
+🎯 Course Outcomes
+Understand AI principles
+Analyze ML algorithms
+Implement supervised & unsupervised models
+Apply Bayesian learning concepts
+🧪 COURSE 2: MACHINE LEARNING LAB (22CDL66)
+📌 Basic Information
+Semester: VI
+Credits: 01
+Marks: 100 (CIE 50 + SEE 50)
+🧪 Core Experiments
+Find-S Algorithm
+Candidate Elimination
+ID3 Decision Tree
+Backpropagation Neural Network
+Naïve Bayes Classifier
+Bayesian Network (Medical Data)
+EM & K-Means Clustering
+k-NN (Iris dataset)
+Locally Weighted Regression
+🚀 Open-Ended Experiments
+Random Forest
+SVM Classifier
+📊 COURSE 3: DATA VISUALIZATION WITH POWER BI (22CD633)
+📌 Basic Information
+Semester: VI
+Credits: 03
+Total Hours: 40
+📌 Pre-requisites
+Programming basics
+DBMS
+HTML5
+🎯 Course Objectives
+Visualize large datasets
+Understand visualization pipelines
+Build interactive dashboards
+Use Power BI for business intelligence
+📚 Modules
+🔹 Module 1: Visualization Methods (08 Hours)
+Visualization principles
+Chart types (Line, Bar, Pie, Area)
+Time series & correlation
+Scatter, maps, treemaps
+HTML5 Canvas
+🔹 Module 2: Data Processing (08 Hours)
+Data acquisition
+Web techniques
+Parsing (regex, markup languages)
+Data formats (BNF, binary, geometry)
+🔹 Module 3: Interactive Visualization (08 Hours)
+Scales, axes, transitions
+Frameworks (JS, layouts)
+Security visualization
+Network monitoring
+🔹 Module 4: Power BI Basics (08 Hours)
+Power BI components
+Chart anatomy
+Visualization optimization
+Funnel charts, maps
+🔹 Module 5: Advanced Power BI (08 Hours)
+Tornado, Bullet charts
+Waterfall, Gantt, Sankey
+Word cloud, decomposition tree
+Radar, chord diagrams
+📖 Suggested Textbooks
+Interactive Data Visualization — Scott Murray
+Visualizing Data — Ben Fry
+Power BI — Kolokolov & Zelensky
+🧠 COURSE 4: BIG DATA ANALYTICS (22CD61)
+📌 Basic Information
+Semester: VI
+Credits: 04
+Hours: 50
+Assessment: 100 Marks
+📌 Pre-requisites
+Linux basics
+DBMS
+Java
+XML
+Virtual Machines
+🎯 Objectives
+Understand Big Data concepts
+Work with Hadoop ecosystem
+Use NoSQL databases
+Apply MapReduce
+Explore ML & social analytics
+📚 Modules
+🔹 Module 1: Big Data Fundamentals
+Scalability
+Data architecture
+Pre-processing
+Applications
+🔹 Module 2: Hadoop & HDFS
+Hadoop ecosystem
+MapReduce
+YARN
+HDFS architecture
+Tools: Pig, Hive, Sqoop, Flume
+🔹 Module 3: NoSQL
+NoSQL architecture
+MongoDB
+Cassandra
+🔹 Module 4: MapReduce & Tools
+MapReduce flow
+Computations
+HiveQL
+Pig
+🔹 Module 5: ML & Social Analytics
+Regression
+Outliers
+Association rules
+Text mining
+PageRank
+Social graphs
+🧪 Practical Components
+Hadoop setup
+HDFS file operations
+WordCount
+Matrix multiplication
+Hive & HBase setup
+📖 Resources
+Big Data Analytics — Raj Kamal
+Hadoop Quick Start — Eadline
+Hadoop Definitive Guide — Tom White
+🧪 COURSE 5: RESEARCH METHODOLOGY & IPR (22RM67)
+📌 Basic Information
+Semester: VI
+Credits: 03
+Marks: 100
+📚 Modules
+🔹 Module 1: Research Basics
+Research meaning & motivation
+Problem solving
+Ethics
+🔹 Module 2: Literature Review
+Databases (Google Scholar, WoS)
+Technical reading
+Citations
+🔹 Module 3: Patents
+IP role
+Patent process
+Prior art
+🔹 Module 4: Copyright & Trademarks
+Ownership
+Fair use
+Trademark laws
+🔹 Module 5: Industrial Design & GI
+Design registration
+GI protection
+Case studies (Turmeric, Neem, Basmati)
+📌 COURSE 6: PROJECT WORK PHASE – I (22CDP65)
+📌 Basic Information
+Semester: VI
+Credits: 02
+CIE Marks: 100
+🎯 Overview
+Literature survey
+Problem definition
+Report preparation
+🎯 Objectives
+Independent learning
+Communication & teamwork
+Innovation
+📊 Evaluation
+Report (50%)
+Presentation (25%)
+Viva/Q&A (25%)

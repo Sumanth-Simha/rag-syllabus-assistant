@@ -1,0 +1,17 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+rag/
+venv/
+
+# Vector DB
+chroma_db/
+
+# OS
+.DS_Store
+Thumbs.db
