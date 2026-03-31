@@ -16,6 +16,9 @@ An AI-powered chatbot that helps students understand their syllabus using Retrie
 - ChromaDB
 - Streamlit
 
+## Sample Output:
+<img width="1917" height="1090" alt="image" src="https://github.com/user-attachments/assets/6c0fcf16-f343-4f82-a33b-b812ef7cd936" />
+
 ##  How to Run
 
 ```bash
@@ -23,5 +26,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-Sample Output:
-<img width="1917" height="1090" alt="image" src="https://github.com/user-attachments/assets/6c0fcf16-f343-4f82-a33b-b812ef7cd936" />
+
